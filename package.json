@@ -1,0 +1,29 @@
+{
+  "name": "websockets-playlist",
+  "version": "1.0.0",
+  "description": "a simple chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi67srm/simpleApp.git"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi67srm/simpleApp/issues"
+  },
+  "homepage": "https://github.com/abhi67srm/simpleApp#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
